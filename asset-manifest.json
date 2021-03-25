@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/jayantiawal1999/todoList_application/static/css/main.4965104c.chunk.css",
+    "main.js": "/jayantiawal1999/todoList_application/static/js/main.192604fc.chunk.js",
+    "main.js.map": "/jayantiawal1999/todoList_application/static/js/main.192604fc.chunk.js.map",
+    "runtime-main.js": "/jayantiawal1999/todoList_application/static/js/runtime-main.d9280a6e.js",
+    "runtime-main.js.map": "/jayantiawal1999/todoList_application/static/js/runtime-main.d9280a6e.js.map",
+    "static/js/2.9c983f18.chunk.js": "/jayantiawal1999/todoList_application/static/js/2.9c983f18.chunk.js",
+    "static/js/2.9c983f18.chunk.js.map": "/jayantiawal1999/todoList_application/static/js/2.9c983f18.chunk.js.map",
+    "index.html": "/jayantiawal1999/todoList_application/index.html",
+    "static/css/main.4965104c.chunk.css.map": "/jayantiawal1999/todoList_application/static/css/main.4965104c.chunk.css.map",
+    "static/js/2.9c983f18.chunk.js.LICENSE.txt": "/jayantiawal1999/todoList_application/static/js/2.9c983f18.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9280a6e.js",
+    "static/js/2.9c983f18.chunk.js",
+    "static/css/main.4965104c.chunk.css",
+    "static/js/main.192604fc.chunk.js"
+  ]
+}
